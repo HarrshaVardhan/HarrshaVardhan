@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarrshaVardhan
 - 👀 I’m interested in learning new things everytime 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Big Data Hadoop & Spark Developer
 - 💞️ I’m looking to collaborate on a project
 - 📫 Can ping me :::!
 
