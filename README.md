@@ -32,13 +32,6 @@
 ## 📈 Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarrshaVardhan&show_icons=true&theme=gotham" alt="HarrshaVardhan" />
 
----> Enjoy the **Jokes** when ever you see my Profile.
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<!---
-HarrshaVardhan/HarrshaVardhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
----> Enjoy the **Jokes** when ever you see my Profile.
+## Enjoy the **Jokes** when ever you see my Profile.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
