@@ -30,12 +30,6 @@
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📈 Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="HarrshaVardhan GitHub Stats">
- 
- 📈 my github stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarrshaVardhan&show_icons=true&theme=gotham" alt="HarrshaVardhan" />
 
 <div align="center">
