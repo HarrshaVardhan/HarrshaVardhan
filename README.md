@@ -9,3 +9,6 @@ HarrshaVardhan/HarrshaVardhan is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
