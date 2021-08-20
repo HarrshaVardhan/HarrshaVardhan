@@ -33,7 +33,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarrshaVardhan&show_icons=true&theme=gotham" alt="HarrshaVardhan" />
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HarrshaVardhan.HarrshaVardhan" alt="visitors">
 </div>
  
 </div>
