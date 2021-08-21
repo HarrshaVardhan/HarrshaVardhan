@@ -24,7 +24,7 @@
 
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing.
 
-**Development Environment:**  Windows OS, Jupyter Notebook.
+**Development Environment:**  Windows OS, Jupyter Notebook,RStudio, Tableau(Data Visualizations)
 
 
 ### Front-End Development
