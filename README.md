@@ -4,8 +4,8 @@
 - 🌱 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. From 2020 I was learning the Data Science entered into a vast world where I get dusty with data. In 2020 **R Programming Language** continued to **Python**. In 2021 till now I learned **Machine Learning** , **Tableau** & a bit about **SQL**,**HTML**,**CSS**,**JavaScrpit**,**Java**. 
 - Now I was learning **Big_Data_Hadoop & Spark_Developer**
 - 💞️ I’m looking to collaborate on a project based on **ML**&**Python**.
-- Outside the world of tech too, I love pushing myself to develop new skills like **Touch Typing**,**Travelling**.
-- 📚 I love reading books on **Personal Development**,**Financial literacy**& **Suspense**. My favorites ones are **The Compound Effect** by *Darren Hardy* in the genre of personal development,**Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy & **Hound of Baskerville**.
+- Outside the world of tech too, I love pushing myself to develop new skills like **Touch Typing**.
+- 📚 I love reading books on **Personal Development**,**Financial literacy**& **Suspense**. My favorites ones are **The Compound Effect** by *Darren Hardy* in the genre of personal development,**Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy & **Hound of Baskerville** in the genre of Suspense.
 - ✈️ I love **traveling** as well, even though it's been some time since I last traveled. My last trip was a trip to Kanchi in 2020.
 
 ## 🛠️ Skills
@@ -19,11 +19,11 @@
 
 ## Data Science
 
-**Libraries:** NumPy, Pandas, Scikit-Learn,  SciPy, Matplotlib, NLTK,OOPs Concept.
+**Libraries:** NumPy, Pandas, Scikit-Learn,  SciPy, Matplotlib, NLTK,Seaborn.
 
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing.
 
-**Development Environment:**  Windows OS, Jupyter Notebook,RStudio, Tableau(Data Visualizations)
+**Development Environment:**  Windows OS, Jupyter Notebook,RStudio, Tableau(Data Visualizations).
 
 
 ### Front-End Development
