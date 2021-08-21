@@ -1,8 +1,6 @@
 - # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 - ## 🚀 About Me
--
-![Harsha Vardhan](https://raw.githubusercontent.com/HarrshaVardhan/HarrshaVardhan/379277808c61ef204768a61bbc5d25bc7798ccf1/HarrshaVardhan.svg)
-
+- 
 - 🎓 I am Harsha Vardhan, an aspiring Data Scientist (specializing in **ML & AI** ). I pursued  my Bachelors in **Mechanical Engineering** and graduated in **2019**.👀
 - 🌱 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. From 2020 I was learning the Data Science entered into a vast world where I get dusty with data. In 2020 **R Programming Language** continued to **Python**. In 2021 till now I learned **Machine Learning** , **Tableau** & a bit about **SQL**,**HTML**,**CSS**,**JavaScrpit**,**Java**. 
 - Now I was learning **Big_Data_Hadoop & Spark_Developer**
