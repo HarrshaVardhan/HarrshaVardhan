@@ -42,6 +42,9 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrshaVardhan&hide=TeX&layout=compact)
+
 ## 🖥️ Workspace Setup
 
 ![i5-10th-gen](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
