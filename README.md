@@ -18,6 +18,13 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+## Data Science
+
+**Libraries:** NumPy, Pandas, Scikit-Learn,  SciPy, Matplotlib, PyTorch, Keras, NLTK,OOPs Concept.
+**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+**Development Environment:**  Windows OS, Jupyter Notebook, Spyder, Visual Studio Code as a text editor
+**Version Control:**  One and only GitHub :heart:
+
 ### Front-End Development
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
