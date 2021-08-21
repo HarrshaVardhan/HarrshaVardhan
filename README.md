@@ -20,10 +20,12 @@
 
 ## Data Science
 
-**Libraries:** NumPy, Pandas, Scikit-Learn,  SciPy, Matplotlib, PyTorch, Keras, NLTK,OOPs Concept.
-**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
-**Development Environment:**  Windows OS, Jupyter Notebook, Spyder, Visual Studio Code as a text editor
-**Version Control:**  One and only GitHub :heart:
+**Libraries:** NumPy, Pandas, Scikit-Learn,  SciPy, Matplotlib, NLTK,OOPs Concept.
+
+**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing.
+
+**Development Environment:**  Windows OS, Jupyter Notebook.
+
 
 ### Front-End Development
 
