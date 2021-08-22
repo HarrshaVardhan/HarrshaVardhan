@@ -52,7 +52,7 @@
 ![Ask me anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 ## 📈 Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarrshaVardhan&show_icons=true&theme=vibgyor" alt="HarrshaVardhan" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarrshaVardhan&show_icons=true&theme=gotham" alt="HarrshaVardhan" />
 
 ## Enjoy the **Jokes** when ever you see my Profile.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
