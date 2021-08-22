@@ -38,8 +38,11 @@
 
 ### Certifications 
 **AutoDesk**: AutoCAD Certified User
+
 **IBM** : Python For DataScience, Data Analysis with Python, Big Data Foundations Level2, Hadoop, Spark, Data Science Methodologies, Data Science Foundations, IBM Cloud Essentials, Cloud Core......
+
 **Simplilearn** : R For DataScience, Python For DataScience, Machine Learning, Tableau, SQL, PowerBI, Linux, Machine Learning With R, Apache Spark, Apache Kafka, Apache Hadoop,Deep Learning, TensorFlow,Git......
+
 **Kaggle**: Data Cleaning, Data Visulaization, Feature Engineering, Advance SQL, NLP, Pandas....
 
 ## Other Skills
