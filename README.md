@@ -42,7 +42,7 @@
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrshaVardhan&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrshaVardhan&layout=compact)](https://github.com/HarrshaVardhan/github-readme-stats)
 
 ## 🖥️ Workspace Setup
 
