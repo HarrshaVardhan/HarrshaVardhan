@@ -42,9 +42,8 @@
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrshaVardhan&layout=compact)](https://github.com/HarrshaVardhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrshaVardhan)](https://github.com/HarrshaVardhan/github-readme-stats)
 
-## 🖥️ Workspace Setup
 
 ![i5-10th-gen](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
