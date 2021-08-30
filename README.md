@@ -44,9 +44,6 @@
 
 💬 Ask me about anything. I will try to help you as much as I can.
 
-📫 How to reach me:
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="24">](https://github.com/HarrshaVardhan) 
-
 ## 📈 Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarrshaVardhan&show_icons=true&theme=gotham" alt="HarrshaVardhan" />
 
