@@ -1,6 +1,7 @@
 - # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 - ## 🚀 About Me
-- 🎓 I am Harsha Vardhan, an aspiring Data Scientist (specializing in **ML & AI** ). I pursued  my Bachelors in **Mechanical Engineering** and graduated in **2019**.👀
+- 🎓 I am Harsha Vardhan, Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ ||
+【P】【y】【t】【h】【o】【n】. I pursued  my Bachelors in **Mechanical Engineering** and graduated in **2019**.👀
 - 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. From 2020 I was learning the Data Science entered into a vast world where I get dusty with data. In 2020 **R Programming Language** continued to **Python**. In 2021 till now I learned **Machine Learning** , **Tableau** & a bit about **SQL**,**HTML**,**CSS**,**JavaScrpit**,**Java**. 
 - Now I was learning **Big_Data_Hadoop & Spark_Developer**
 - 💞️ I’m looking to collaborate on a project based on **ML**&**Python**.
@@ -17,14 +18,9 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## Data Science
-
-**Libraries:** NumPy, Pandas, Scikit-Learn,  SciPy, Matplotlib, NLTK,Seaborn.
-
-**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing.
-
-**Development Environment:**  Windows OS, Jupyter Notebook,RStudio, Tableau(Data Visualizations).
-
+## Languages & Tools 
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI"> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Quananhle/Python-AWS-TradingAI"> <img src="https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI"> <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI"> <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI"> <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/Quananhle/Python-AWS-TradingAI"> <img src="https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Quananhle/Python-AWS-TradingAI"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 ### Front-End Development
 
@@ -58,7 +54,11 @@
 ![i5-10th-gen](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Ask me anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+💬 Ask me about anything. I will try to help you as much as I can.
+
+📫 How to reach me:
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="24">](https://github.com/HarrshaVardhan) 
+| [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](whysoserious.15308@gmail.com) 
 
 ## 📈 Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarrshaVardhan&show_icons=true&theme=gotham" alt="HarrshaVardhan" />
@@ -68,3 +68,7 @@
 
 ### Profile Views
 ![Views](https://komarev.com/ghpvc/?username=HarrshaVardhan)
+
+ **Check the Repositories and don't forget to give a star.** 👇
+
+:star: From [HarrshaVardhan](https://github.com/HarrshaVardhan)
