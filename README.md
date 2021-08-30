@@ -46,7 +46,6 @@
 
 ## Enjoy the **Jokes** when ever you see my Profile.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### Profile Views
 ![Views](https://komarev.com/ghpvc/?username=HarrshaVardhan)
 
