@@ -40,7 +40,8 @@
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Laptop](https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HarrshaVardhan&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrshaVardhan&hide=TeX&layout=compact)
+
 
 💬 Ask me about anything. I will try to help you as much as I can.
 
