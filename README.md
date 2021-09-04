@@ -1,5 +1,4 @@
 - # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Harsha%20Vardhan&fontSize=50&animation=scaleIn&fontAlignY=38&fontAlign=75&reversal=true" />
 - ## 🚀 About Me
 - 🎓 I am Harsha Vardhan, Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ ||
 【P】【y】【t】【h】【o】【n】. I pursued  my Bachelors in **Mechanical Engineering** and graduated in **2019**.👀
