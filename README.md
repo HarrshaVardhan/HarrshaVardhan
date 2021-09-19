@@ -18,11 +18,11 @@
 
 **IBM** : Python For DataScience, Data Analysis with Python, Big Data Foundations Level2, Hadoop, Spark, Data Science Methodologies, Data Science Foundations, IBM Cloud Essentials, Cloud Core......
 
-**Simplilearn** : R For DataScience, Python For DataScience, Machine Learning, Tableau, SQL, PowerBI, Linux, Machine Learning With R, Apache Spark, Apache Kafka, Apache Hadoop,Deep Learning, TensorFlow,Git......
+**Simplilearn** : R For DataScience, Python For DataScience, Machine Learning, Tableau, SQL, PowerBI, Linux, Machine Learning With R, Apache Spark, Apache Kafka, Apache Hadoop,Deep Learning, TensorFlow,Git, Big Data......
 
 **Kaggle**: Data Cleaning, Data Visulaization, Feature Engineering, Advance SQL, NLP, Pandas....
 
-**Badges**: [![IBM](https://www.credly.com/users/harsha-vardhan-angalakuduru)
+**LinkedIN** : Data Analyst,HTML,CSS,SQL,Programing Foundations Databases
 
 **Office:**
 [![Excel](https://img.shields.io/badge/-Microsoft_Excel-green?style=flat&logo=Microsoft-Excel&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
