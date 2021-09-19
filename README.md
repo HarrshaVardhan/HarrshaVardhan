@@ -22,6 +22,8 @@
 
 **Kaggle**: Data Cleaning, Data Visulaization, Feature Engineering, Advance SQL, NLP, Pandas....
 
+**Badges**: [![IBM](https://www.credly.com/users/harsha-vardhan-angalakuduru)
+
 **Office:**
 [![Excel](https://img.shields.io/badge/-Microsoft_Excel-green?style=flat&logo=Microsoft-Excel&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![Word](https://img.shields.io/badge/-Microsoft_Word-blue?style=flat&logo=Microsoft-Word&link=https://github.com/Quananhle)](https://github.com/Quananhle)
