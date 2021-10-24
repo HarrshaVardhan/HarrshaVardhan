@@ -29,11 +29,7 @@
 
 **Office:**
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-[![Word](https://img.shields.io/badge/-Microsoft_Word-blue?style=flat&logo=Microsoft-Word&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Powerpoint](https://img.shields.io/badge/-Microsoft_Powerpoint-red?style=flat&logo=Microsoft-Powerpoint&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-
 ![AMD RX 5500](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Laptop](https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![Processor](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
