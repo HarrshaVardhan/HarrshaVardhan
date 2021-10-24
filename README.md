@@ -19,7 +19,7 @@
 
 **AutoDesk**: AutoCAD Certified User
 
-**IBM** : Python For DataScience, Data Analysis with Python, Big Data Foundations Level2, Hadoop, Spark, Data Science Methodologies, Data Science Foundations, IBM Cloud Essentials, Cloud Core......
+**IBM** : Python For DataScience, Data Analysis with Python, Big Data Foundations Level2, Hadoop, Spark, Data Science Methodologies, Data Science Foundations, IBM Cloud Essentials, Cloud Core, Deep Learning Fundamentals, Deep Learning with Tensorflow....
 
 **Simplilearn** : R For DataScience, Python For DataScience, Machine Learning, Tableau, SQL, PowerBI, Linux, Machine Learning With R, Apache Spark, Apache Kafka, Apache Hadoop,Deep Learning, TensorFlow,Git, Big Data......
 
@@ -28,12 +28,14 @@
 **LinkedIN** : Data Analyst,HTML,CSS,SQL,Programing Foundations Databases
 
 **Office:**
-[![Excel](https://img.shields.io/badge/-Microsoft_Excel-green?style=flat&logo=Microsoft-Excel&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 [![Word](https://img.shields.io/badge/-Microsoft_Word-blue?style=flat&logo=Microsoft-Word&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Powerpoint](https://img.shields.io/badge/-Microsoft_Powerpoint-red?style=flat&logo=Microsoft-Powerpoint&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-![i5-10th-gen](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
+![AMD RX 5500](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Laptop](https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+![Laptop](https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+![Processor](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrshaVardhan&hide=TeX&layout=compact)
 
