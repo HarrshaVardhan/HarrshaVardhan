@@ -1,6 +1,6 @@
 - # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ## 🚀 About Me
-- 🎓 I am Harsha Vardhan, Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ ||
+- 🎓 I am Harsha Vardhan, A Certified  Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | 
 【P】【y】【t】【h】【o】【n】. I pursued  my Bachelors in **Mechanical Engineering** and graduated in **2019**.👀
 - 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. From 2020 I was learning the Data Science entered into a vast world where I get dusty with data. In 2020 **R Programming Language** continued to **Python**. In 2021 till now I learned **Machine Learning** , **Tableau** & a bit about **SQL**,**HTML**,**CSS**,**JavaScrpit**,**Java**,**Big_Data_Hadoop & Spark_Developer**,**Flask API and Deploying a Machine learning model.**
 - Recent Intrests **NLP**, **Computer Vision**.
