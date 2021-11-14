@@ -51,6 +51,6 @@
 ### Profile Views
 ![Views](https://komarev.com/ghpvc/?username=HarrshaVardhan)
 
- **Check the Repositories and don't forget to give a star.** 👇
+![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Checkout+my+Projects......) 👇
 
 :star: From [HarrshaVardhan](https://github.com/HarrshaVardhan)
