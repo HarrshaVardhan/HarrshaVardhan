@@ -51,6 +51,8 @@
 ### Profile Views
 ![Views](https://komarev.com/ghpvc/?username=HarrshaVardhan)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Checkout+my+Projects......) 👇
+![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Checkout+my+Projects......) 
 
 :star: From [HarrshaVardhan](https://github.com/HarrshaVardhan)
+  
+ <img src= "https://github.com/HarrshaVardhan/HarrshaVardhan/blob/output/github-contribution-grid-snake.gif"/>
